@@ -129,7 +129,7 @@ plt.show()
 # OUPUT
 ![81](https://user-images.githubusercontent.com/93427253/171038819-35e99928-5e79-4045-ad4a-acf466d17776.png)
 ## Data Visualization Using Seaborn:
-![8one](https://user-images.githubusercontent.com/93427253/171087505-18c8324d-17ba-428b-8961-134f4d7fc0bd.png)
+![one](https://user-images.githubusercontent.com/93427253/171088126-d9789627-424b-492c-bb2b-b3e20b321c97.png)
 ![8one2](https://user-images.githubusercontent.com/93427253/171087530-76851f17-5e09-4f5c-8a2d-4034370f0319.png)
 ![8two1](https://user-images.githubusercontent.com/93427253/171087550-da3c1477-79f7-4505-9347-730740f29926.png)
 ![8two2](https://user-images.githubusercontent.com/93427253/171087565-bab9ec2d-51bb-4856-8d3a-12dd77ecde35.png)
